@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "integrador-405901",
+  "private_key_id": "d79ed50dda4b2d9ee1b6853286f1dd9fd86bd34a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCohKMvfxTC9VQ/\neDPVrKNp/12Q5VQ2/ZEskrkrAJPfNCLXKKGQm/uD9c83u8t4od+fk6X5WVZT0ncX\niUKGLbUH4GAeMRZov85/kFugX6RYqRH7O8RkL+8P0m3IwL6vh6QgsQST+xP6Oihe\nnY8TBVRxQAoulRkGJ5ZXiLTFCz9gzEC7fLWzFsnpPR8ZhYc4LAN4lPB/LIaJYBlh\nbKvNtjrKlRBr9YQasvCOZCY8HloandPFEPuJZZokUqMU4T/rJJ/r5rC6NUELuAYO\nabypSDbudIrU7mm4bGrivomSf0mBLrMS+bV2ZcvEoZIY2yV6Pbgqpuj7xmKuJ7VJ\njEespC4xAgMBAAECggEAAe+sNFKAeZD6C9Sku9LE+eXOPGj2I7+cGGgDKqRSDqF5\nuQElghTYufZsEBbfSp6JhDrdEFVfcY0cgy+3jPUffFyungowWLnDdKHC+7+9kqs2\noq1YH1KRq5veWQ0l47xqPVnrVIvw+dILPrMOvsgz5S04MLrT08dGqfDPKuhrLQCG\n/hfsTKh7s57FPuy9WpbnAi1VkenfegufilOIP72FG5YkzRckT7zZfexHX+MJ5fW8\nC7WYeZFo35KP+ivpimpqgPq2CeXfVILiWdXgTtXJAlDw5LWShARyjOdQK9+48/me\nHdXP3VmdoTgGdLmaxR8/6PFDfEP/D8IW4O7HG5XoQQKBgQDlJmr5MFnKG59S6vEh\nSzEZ88TZS3VEs+tlIpCLvcIWaGyu01i2dAmjtxBBQsP5Pv66fBhcC0EYF+FHvm3c\nRAWOX1hUvYQpnfQXdQap/7/g88YsreroHKFjUUhriy6Tvdqve5RP0h2OuWPcsWrc\n/keEPrqx1Jz5L84hpzASGZi5GQKBgQC8Q4EdNJ5HgJ8z+jqM6Sc+0zrtpBiyZIz7\nqDoaMKtwgFRyLNw94hoX4fHhhJoGw/K69iO8rMIbCu9Mzy3K5KvYTJFpuAwgekWC\nPjJobwaE3HDC50fDs/GX8AU4e59NfnWj56d0NJuJ7yP7LvuBA0O0tMm7kAy+Ovve\nFLVEv+qI2QKBgDXQiujQmRWk3QrdEBnwjax5mi4p0XV8B3kt3+JhgxY+GeAI1Fms\n8KKZGGErK9j6GVp0UEg1gGkHGqn9p9FFzEQ+UgE8rLAVX0CvBAyiek57EXxmr7cp\nGiG38hkHi724pYX2sML6JmThVvl6VQ1nTiZZkQC4XNEMkA1JNTna9wnpAoGBAJlj\n0s4N8ixF8vDxn0TyLqS0jB3Vhr3KyUe94GE4aGbIWIWSYXwWPbZZxK8/UBPVEW8d\nXy65/4jzFtiZMTFPsWgRsqTVbSQFG58rt/x5AXG8/i7/K+ybL2vhBw/nQXttXsJF\n250Fw/jVnJZqyEZsd3zDlF461vcjrdVbP/oc+CW5AoGAdgO3vsZJASD0U7vGcR++\ncUez0TGLhTlbWdkgO3P3kuVKuYiRtn8n4sCAiDg9NJZR5NDFXrKtIO1Yr4/FGx23\nk8LZkcWqY6P/3tRPxyfI6fPQrycHr5Qsqw4OnwAjLaA8wHJkXf1Y92jSN8/bqHBr\nTEet5V9S7GqJToHoVUsrPOE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "integradorimg@integrador-405901.iam.gserviceaccount.com",
+  "client_id": "109469773372274093076",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/integradorimg%40integrador-405901.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

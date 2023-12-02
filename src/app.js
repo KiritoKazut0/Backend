@@ -1,18 +1,24 @@
 import express from "express";
 import morgan from "morgan";
+import cors from "cors"
 // Routes
-import languageRoutes from "./routes/language.routes";
-
+import routerCliente from "./routes/language.routes.js"
+import routerProductos from "./routes/languaje.routesProductos.js";
+import fileUpload from "express-fileupload";
+import { upload } from "./routes/upload.js";
+import conf from "./config.js";
 const app = express();
-
-// Settings
-app.set("port", 8080);
 
 // Middlewares
 app.use(morgan("dev"));
 app.use(express.json());
-
+app.use(cors());
+app.use(fileUpload());
 // Routes
-app.use("/api/cliente", languageRoutes);
+app.use("/upload",upload);
+app.use("/api/cliente", routerCliente);
+app.use("/api/producto", routerProductos);
 
-export default app;
+app.listen(conf.port, ()=> {
+    console.log(`Server on port ${conf.port}`);
+})
