@@ -7,7 +7,7 @@ const conf = {
     database: process.env.DATABASE || "",
     user: process.env.USER || "",
     password: process.env.PASSWORD || "",
-    port: process.env.PORT || ""
+    port: process.env.PORT || 3000
 };
 
 //console.log(conf)
