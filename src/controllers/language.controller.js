@@ -4,13 +4,14 @@ const getCliente = async (req, res) => {
     try {
         const id = 1; 
         const connection = await getConnection();
-        const result = await connection.query("SELECT usuario, contraseña, id FROM Cliente WHERE id = ?", id);
+        const result = await connection.query("SELECT usuario, `contraseña`, id FROM Cliente WHERE id = ?", id);
         res.json(result);
     } catch (error) {
         res.status(500);
         res.send(error.message);
     }
 };
+
 
 
 
