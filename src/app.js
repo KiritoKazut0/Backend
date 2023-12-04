@@ -12,7 +12,11 @@ const app = express();
 // Middlewares
 app.use(morgan("dev"));
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+    origin: '*',
+    methods:['POST', 'GET','PUT','DELETE'],
+    credentials: true
+}));
 app.use(fileUpload());
 // Routes
 app.use("/upload",upload);
